@@ -4,6 +4,7 @@ HELP.md
 .gradle
 build/
 data/
+welcome-to-docker/
 
 ### STS ###
 .apt_generated
